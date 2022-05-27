@@ -3,7 +3,7 @@ About r-boom
 
 Home: https://CRAN.R-project.org/package=Boom
 
-Package license: LGPL-2.1
+Package license: LGPL-2.1-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-boom-feedstock/blob/main/LICENSE.txt)
 
