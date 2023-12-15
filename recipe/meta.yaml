@@ -1,4 +1,4 @@
-{% set version = "0.9.11" %}
+{% set version = "0.9.13" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,12 +10,12 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/Boom_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/Boom/Boom_{{ version }}.tar.gz
-  sha256: 7185c0f91b62c382ce1ad922b6b298611ecac1655433fe307b337da1e81e779e
+  sha256: ab4fa3fe7d292bfc15ec8db122398469208c14285577fa52ac3d18d553233b3e
 
 build:
   merge_build_host: true  # [win]
   skip: true  # [win]
-  number: 1
+  number: 0
   rpaths:
     - lib/R/lib/
     - lib/
