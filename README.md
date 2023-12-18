@@ -3,6 +3,7 @@ About r-boom-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-boom-feedstock/blob/main/LICENSE.txt)
 
+
 About r-boom
 ------------
 
@@ -11,6 +12,7 @@ Home: https://CRAN.R-project.org/package=Boom
 Package license: LGPL-2.1
 
 Summary: A C++ library for Bayesian modeling, with an emphasis on Markov chain Monte Carlo.  Although boom contains a few R utilities (mainly plotting functions), its primary purpose is to install the BOOM C++ library on your system so that other packages can link against it.
+
 About r-boom
 ------------
 
@@ -146,7 +148,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
