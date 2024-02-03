@@ -9,7 +9,7 @@ About r-boom
 
 Home: https://CRAN.R-project.org/package=Boom
 
-Package license: LGPL-2.1
+Package license: LGPL-2.1-only
 
 Summary: A C++ library for Bayesian modeling, with an emphasis on Markov chain Monte Carlo.  Although boom contains a few R utilities (mainly plotting functions), its primary purpose is to install the BOOM C++ library on your system so that other packages can link against it.
 
@@ -18,7 +18,7 @@ About r-boom
 
 Home: https://CRAN.R-project.org/package=Boom
 
-Package license: LGPL-2.1
+Package license: LGPL-2.1-only
 
 Summary: A C++ library for Bayesian modeling, with an emphasis on Markov chain Monte Carlo.  Although boom contains a few R utilities (mainly plotting functions), its primary purpose is to install the BOOM C++ library on your system so that other packages can link against it.
 
